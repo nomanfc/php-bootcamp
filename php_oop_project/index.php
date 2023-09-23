@@ -12,10 +12,19 @@
 <body>
   <?php include  "components/header.php" ?>
   <div class="main_content">
-    <?php include "components/main_content.php" ?>
+    <?php include "components/class_object.php" ?>
     <?php include "components/method_object.php" ?>
+    <?php include "components/constructor_destructor.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
+
+
+  <script>
+    // Scroll to the bottom of the page when it's loaded
+    window.onload = function() {
+      window.scrollTo(0, document.body.scrollHeight);
+    };
+  </script>
 </body>
 
 </html>
