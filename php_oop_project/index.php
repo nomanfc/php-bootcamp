@@ -15,6 +15,7 @@
     <?php include "components/class_object.php" ?>
     <?php include "components/method_object.php" ?>
     <?php include "components/constructor_destructor.php" ?>
+    <?php include "components/constructor_destructor2.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 
