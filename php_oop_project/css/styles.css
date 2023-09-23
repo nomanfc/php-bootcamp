@@ -20,6 +20,7 @@ body {
   font-size: 18px;
   border: 1px solid orange;
   height: 70vh;
+  overflow-y: scroll ;
 }
 
 .footer {

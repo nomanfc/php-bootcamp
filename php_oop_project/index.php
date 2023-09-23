@@ -13,6 +13,7 @@
   <?php include  "components/header.php" ?>
   <div class="main_content">
     <?php include "components/main_content.php" ?>
+    <?php include "components/method_object.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 </body>
