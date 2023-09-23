@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 50%;
+  margin: 0 auto;
+  background-color: cyan;
+  text-align: start;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+.main_content {
+  width: 50%;
+  margin: 10px auto;
+  padding: 5px 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  border: 1px solid orange;
+  height: 70vh;
+}
+
+.footer {
+  width: 50%;
+  margin: 0 auto;
+  background-color: cyan;
+  text-align: center;
+  padding: 5px 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  bottom: 0; /* Position it at the bottom. */
+}
