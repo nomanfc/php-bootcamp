@@ -1,4 +1,4 @@
-<h4>
+<h4 style="color: red">
     unset properties in __destruct in Php?
 </h4>
 

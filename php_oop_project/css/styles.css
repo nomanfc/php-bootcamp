@@ -23,6 +23,10 @@ body {
   overflow-y: scroll ;
 }
 
+.php-generated-h4 {
+  color: red;
+}
+
 .footer {
   width: 50%;
   margin: 0 auto;

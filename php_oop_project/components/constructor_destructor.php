@@ -1,4 +1,4 @@
-<h4>
+<h4 style="color: red">
     __construct and __destruct in Php?
 </h4>
 

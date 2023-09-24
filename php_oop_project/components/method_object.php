@@ -2,7 +2,7 @@
 include "handler_functions/calculation.php"
 ?>
 
-<h4>
+<h4 style="color: red">
     Work with method and object in Php?
 </h4>
 
