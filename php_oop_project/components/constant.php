@@ -8,7 +8,8 @@ class ConstantProperty {
 
 
     public function display(){
-        echo "Accessing constant with display method: ".ConstantProperty::NAME."<br/>";
+        echo "Accessing constant with display method (class_name::constant_name): ".ConstantProperty::NAME."<br/>";
+        echo "Accessing constant with display method (self::constant_name): ".self::NAME."<br/>";
     }
 }
 

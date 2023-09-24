@@ -11,6 +11,7 @@
 
 <body>
   <?php include  "components/header.php" ?>
+
   <div class="main_content">
     <?php include "components/class_object.php" ?>
     <?php include "components/method_object.php" ?>

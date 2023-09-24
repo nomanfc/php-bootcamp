@@ -1,4 +1,3 @@
-    <div class="header">
-        <h2>OOP in PHP..... Hello</h2>
-    </div>
-
+<div class="header">
+    <h3>OOP in PHP</h3>
+</div>
