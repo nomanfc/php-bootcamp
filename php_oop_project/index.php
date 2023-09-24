@@ -18,6 +18,7 @@
     <?php include "components/constructor_destructor.php" ?>
     <?php include "components/constructor_destructor2.php" ?>
     <?php include "components/constant.php" ?>
+    <?php include "components/static.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 
