@@ -19,6 +19,7 @@
     <?php include "components/constructor_destructor2.php" ?>
     <?php include "components/constant.php" ?>
     <?php include "components/static.php" ?>
+    <?php include "components/inheritance.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 

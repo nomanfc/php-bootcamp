@@ -8,7 +8,7 @@ class StaticPro{
     public static $age = "25";
 
     public static function display(){
-        echo "My name is ".self::$name;
+        echo "My name is ".self::$age;
     } 
 
 }
