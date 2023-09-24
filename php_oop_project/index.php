@@ -20,6 +20,7 @@
     <?php include "components/constant.php" ?>
     <?php include "components/static.php" ?>
     <?php include "components/inheritance.php" ?>
+    <?php include "components/final_keyword.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 
