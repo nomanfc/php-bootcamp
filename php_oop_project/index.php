@@ -21,6 +21,7 @@
     <?php include "components/static.php" ?>
     <?php include "components/inheritance.php" ?>
     <?php include "components/final_keyword.php" ?>
+    <?php include "components/access_modifiers.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 
