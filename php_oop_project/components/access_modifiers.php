@@ -14,7 +14,6 @@ class Access_modifiers
         echo "Public: {$this->name} || inside class<br/>";
         echo "Protected: {$this->age} || inside class<br/>";
         echo "Private: {$this->pin} || inside class<br/>";
-
     }
 }
 
@@ -27,6 +26,7 @@ class Derived_modifiers extends Access_modifiers
         echo "Private: ERROR || derived class<br/>";
     }
 }
+
 
 $obj = new Access_modifiers();
 $obj->display();
