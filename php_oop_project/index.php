@@ -16,16 +16,17 @@
     <?php include "components/method_object.php" ?>
     <?php include "components/constructor_destructor.php" ?>
     <?php include "components/constructor_destructor2.php" ?>
+    <?php include "components/constant.php" ?>
   </div>
   <?php include  "components/footer.php" ?>
 
-
   <script>
-    // Scroll to the bottom of the page when it's loaded
     window.onload = function() {
-      window.scrollTo(0, document.body.scrollHeight);
+      var mainContentDiv = document.querySelector(".main_content");
+      mainContentDiv.scrollTop = mainContentDiv.scrollHeight;
     };
   </script>
+
 </body>
 
 </html>
